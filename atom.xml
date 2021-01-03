@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://eoioe.com</id>
-    <title>Gridea</title>
-    <updated>2021-01-03T13:50:28.922Z</updated>
+    <title>云辞典</title>
+    <updated>2021-01-03T13:56:44.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://eoioe.com"/>
     <link rel="self" href="https://eoioe.com/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
     <logo>https://eoioe.com/images/avatar.png</logo>
     <icon>https://eoioe.com/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 云辞典</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://eoioe.com/post/hello-gridea/</id>
